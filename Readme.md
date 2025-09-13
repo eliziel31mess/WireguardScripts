@@ -192,3 +192,13 @@ sudo ./add-peer.sh laptop
 sudo ./add-peer.sh iphone
 sudo ./add-peer.sh trabajo
 ```
+
+✅ Descargando Scripts
+
+```bash
+wget -O install-wireguard-auto.sh https://raw.githubusercontent.com/eliziel31mess/WireguardScripts/refs/heads/master/install-wireguard-auto.sh
+```
+
+```bash
+wget -O add-peer.sh https://raw.githubusercontent.com/eliziel31mess/WireguardScripts/refs/heads/master/add-peer.sh
+```
